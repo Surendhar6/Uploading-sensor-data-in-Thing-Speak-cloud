@@ -1,4 +1,4 @@
-# Uploading sensor data in Thing Speak cloud
+# Uploading Temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the distance of the obstacle using an Ultrasonic sensor and uploading the data in the Thing speak using an ESP32 controller.
